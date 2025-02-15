@@ -1,3 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI';
+}
+
+
+nav {
+  
+  text-align: right;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 20px 24px;
+  background-color: #ffd497eb;
+}
+
+nav a {
+  color: #764427;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.intro-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: 0px;
+  padding: 20px;
+}
+
+.intro-container h1{
+  font-family: 'Trebuchet MS';
+}
+
+.intro-container image{
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
 /* General project-card styling */
 project-card {
     display: block;
