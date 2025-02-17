@@ -311,7 +311,7 @@ span {
 .scroller_inner{
   width: max-content;
   flex-wrap: nowrap;
-  animation: scroll 20s linear infinite;
+  animation: scroll 30s linear infinite;
   gap: 1rem;   /* critical value for animation calculation */
 }
 
