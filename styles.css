@@ -252,18 +252,18 @@ span {
   margin-top: 8%;
 
   h1 {
-    font-size: 3vw;
+    font-size: 3dvw;
     font-weight: 800;
     margin-bottom: 2%;
   }
 
   p {
-    font-size: 1vw;
+    font-size: 1dvw;
     margin-bottom: 3%;
   }
 
   h2 {
-    font-size: 1.5vw;
+    font-size: 1.5dvw;
     font-weight: 800;
     margin-bottom: 1%;
   }
@@ -272,7 +272,7 @@ span {
     list-style: none;
 
     li {
-      font-size: 0.75vw;
+      font-size: 0.75dvw;
     }
   }
 }
@@ -335,21 +335,21 @@ span {
   justify-content: center;
 
   h1 {
-    font-size: 2.5vw;
+    font-size: 2.5dvw;
     font-weight: bolder;
     width: 40rem;
     margin-bottom: 4%;
   }
 
   h2 {
-    font-size: 1.2vw;
+    font-size: 1.2dvw;
     font-weight: bold;
     width: 40rem;
     margin-bottom: 1%;
   }
 
   p {
-    font-size: 0.75vw;
+    font-size: 0.75dvw;
     max-width: 40rem;
     word-wrap: break-word;
   }
