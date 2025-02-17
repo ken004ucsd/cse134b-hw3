@@ -93,7 +93,7 @@ section{
 header{
   width: 100dvw;
   height: 100dvh;
-  background-image: url(images/bird\ wallpaper\ pc.jpg);
+  background-image: url(images/rabbit\ wallpaper-pc.JPG);
   background-position: center;
   background-size: cover;
   color:var(--secondary-color, white);
@@ -116,13 +116,13 @@ nav {
     margin: 1vw;
 
     &:hover {
-      padding: 1rem;
-      border-bottom: 0.5rem solid var(--primary-color, cornflowerblue);
+      padding: 0.5dvw;
+      border-bottom: 5px solid var(--primary-color, cornflowerblue);
       color: var(--primary-color, cornflowerblue);
       font-size: larger;
       font-weight: bold;
-      transform: scale(1.1);
-      transition: 0.5s;
+      transform: scale(1.05);
+      transition: 0.3s;
     }
   }
 }
@@ -226,6 +226,12 @@ span {
   padding-top: 5%;
   padding-bottom: 5%;
   padding-left: 10%;
+  width: 100dvw;
+  height: 100dvh;
+  background-image: url(images/bunny_helene1.png);
+  background-position: center;
+  background-size: cover;
+  color:var(--secondary-color, white);
 }
 
 
@@ -403,7 +409,7 @@ span {
   display: inline-block;
   width: 100dvw;
   height: 90dvh;
-  background-image: url(images/rabbit\ wallpaper-pc.JPG);
+  background-image: url(images/bird\ wallpaper\ pc.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -501,6 +507,8 @@ footer{
   align-items: center;
   margin-bottom: 2%;
   color: var(--secondary-color, white);
+  margin-top: 2%;
+  font-size: small;
 
   p{
     position: bottom;
